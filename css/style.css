@@ -1,0 +1,18 @@
+.container{
+    display: flex; 
+    justify-content: space-evenly; 
+    align-items: center; 
+} 
+.imagenes nav{
+    display: flex; 
+    justify-content: space-around; /*Alineacion Vertical*/
+    text-align: center;
+    margin-top: -70px;
+    
+
+ }
+ .imagenes img{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+ }
